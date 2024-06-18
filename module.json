@@ -1,0 +1,47 @@
+{
+  "id": "minhis-shared-compendia",
+  "title": "Minhi's Shared Compendia",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Minhi"
+    }
+  ],
+  "packs": [
+    {
+      "name": "simplified-camping",
+      "label": "Simplified Camping",
+      "path": "packs/simplified-camping",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "homebrew-rules",
+      "label": "Homebrew Rules",
+      "path": "packs/homebrew-rules",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "pf2e-kingmaker-tools",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
