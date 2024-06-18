@@ -36,12 +36,6 @@
     }
   ],
   "relationships": {
-    "requires": [
-      {
-        "id": "pf2e-kingmaker-tools",
-        "type": "module",
-        "compatibility": {}
-      }
-    ]
+    "requires": []
   }
 }
