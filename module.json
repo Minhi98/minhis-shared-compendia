@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -40,19 +40,23 @@
     }
   ],
   "flags": {
-    "minhis-shared-compendia":
-    {
-      "pf2e-homebrew":
-      {
-        "featTraits":
-        {
-          "camping":
-          {
+    "minhis-shared-compendia": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "camping": {
             "label": "Camping",
             "description": "An activity that can be performed by a character during a camping session. A camping activity usually takes 2 hours to complete."
           }
         }
       }
     }
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system"
+      }
+    ]
   }
 }
