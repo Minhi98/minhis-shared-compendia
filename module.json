@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -46,7 +46,8 @@
       "packs": [
         "simplified-camping",
         "homebrew-rules"
-      ]
+      ],
+      "folders": []
     }
   ],
   "flags": {
@@ -65,7 +66,8 @@
     "systems": [
       {
         "id": "pf2e",
-        "type": "system"
+        "type": "system",
+        "compatibility": {}
       }
     ]
   }
