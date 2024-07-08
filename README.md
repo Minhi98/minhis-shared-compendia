@@ -8,3 +8,12 @@ Install via the manifest - `https://raw.githubusercontent.com/Minhi98/minhis-sha
 
 The below list covers what this module currently supports:
 - Simplified Camping
+- Proficiency without Level
+
+### Proficiency without Level
+
+Item and Macro compendiums have been added with the intention of providing support to commonly used things.
+
+Changes are based off of my [PwL Adjustments](https://docs.google.com/spreadsheets/d/1gjBxrdQMJUpBZesnUYN9WI0pE_FLay4pGyPJGcNz7uY/edit?usp=sharing) sheet.
+
+As of writing, certain system module and action macros (e.g. "Generate Check Prompt") cannot be edited because they source their set DCs internally, rather than from macros. For Simple DCs, you are advised to set them manually.

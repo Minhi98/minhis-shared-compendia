@@ -1,14 +1,15 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
   },
   "authors": [
     {
-      "name": "Minhi"
+      "name": "Minhi",
+      "flags": {}
     }
   ],
   "description": "A module for my pf2e homebrew and implementations of 3PP or other homebrew used.",
@@ -37,6 +38,28 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "proficiency-without-level-items",
+      "label": "Proficiency without Level",
+      "path": "packs/proficiency-without-level-items",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "proficiency-without-level-macros",
+      "label": "Proficiency without Level",
+      "path": "packs/proficiency-without-level-macros",
+      "type": "Macro",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -45,9 +68,12 @@
       "sorting": "a",
       "packs": [
         "simplified-camping",
-        "homebrew-rules"
+        "homebrew-rules",
+        "proficiency-without-level-items",
+        "proficiency-without-level-macros"
       ],
-      "folders": []
+      "folders": [],
+      "color": null
     }
   ],
   "flags": {
@@ -57,6 +83,10 @@
           "camping": {
             "label": "Camping",
             "description": "An activity that can be performed by a character during a camping session. A camping activity usually takes 2 hours to complete."
+          },
+          "PwL": {
+            "label": "PwL",
+            "description": "This has been specifically created for Proficiency without Level. If it is something already existing, then it has been modified to work better under these rules."
           }
         }
       }
@@ -67,6 +97,13 @@
       {
         "id": "pf2e",
         "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "xdy-pf2e-workbench",
+        "type": "module",
         "compatibility": {}
       }
     ]
