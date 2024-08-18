@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -60,6 +60,28 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "ancestries-and-heritages",
+      "label": "Ancestries & Heritages",
+      "path": "packs/ancestries-and-heritages",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "archetypes",
+      "label": "Archetypes",
+      "path": "packs/archetypes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
     }
   ],
   "packFolders": [
@@ -70,7 +92,9 @@
         "simplified-camping",
         "homebrew-rules",
         "proficiency-without-level-items",
-        "proficiency-without-level-macros"
+        "proficiency-without-level-macros",
+        "ancestries-and-heritages",
+        "archetypes"
       ],
       "folders": [],
       "color": null
