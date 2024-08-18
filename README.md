@@ -8,7 +8,7 @@ Install via the manifest - `https://raw.githubusercontent.com/Minhi98/minhis-sha
 
 Systems and Misc.
 - Simplified Camping
-- Proficiency without Level
+- Proficiency without Level (see below)
 
 Ancestries & Heritages
 - (Poppet Heritage) Plain Porcelain Doll
