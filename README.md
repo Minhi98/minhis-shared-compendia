@@ -6,9 +6,15 @@ Install via the manifest - `https://raw.githubusercontent.com/Minhi98/minhis-sha
 
 ## Supported Content
 
-The below list covers what this module currently supports:
+Systems and Misc.
 - Simplified Camping
 - Proficiency without Level
+
+Ancestries & Heritages
+- (Poppet Heritage) Plain Porcelain Doll
+
+Archetypes
+- Class Paragon
 
 ### Proficiency without Level
 
