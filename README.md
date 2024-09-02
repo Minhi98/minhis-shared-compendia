@@ -16,6 +16,9 @@ Ancestries & Heritages
 Archetypes
 - Class Paragon
 
+3PP
+- Home-Base Handbook (Hirelings, Tables and Notable Effects)
+
 ### Proficiency without Level
 
 Item and Macro compendiums have been added with the intention of providing support to commonly used things.

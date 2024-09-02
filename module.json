@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -66,17 +66,50 @@
       "label": "Ancestries & Heritages",
       "path": "packs/ancestries-and-heritages",
       "type": "Item",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "archetypes",
       "label": "Archetypes",
       "path": "packs/archetypes",
       "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "home-base-handbook-hirelings",
+      "label": "Home-Base Handbook Hirelings",
+      "path": "packs/home-base-handbook-hirelings",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "home-base-handbook-and-additions",
+      "label": "Home-Base Handbook & Additions",
+      "path": "packs/home-base-handbook-and-additions",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "home-base-handbook-journals",
+      "label": "Home-Base Handbook Journals",
+      "path": "packs/home-base-handbook-journals",
+      "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -96,7 +129,19 @@
         "ancestries-and-heritages",
         "archetypes"
       ],
-      "folders": [],
+      "folders": [
+        {
+          "name": "Home-Base Handbook",
+          "sorting": "a",
+          "color": null,
+          "packs": [
+            "home-base-handbook-and-additions",
+            "home-base-handbook-hirelings",
+            "home-base-handbook-journals"
+          ],
+          "folders": []
+        }
+      ],
       "color": null
     }
   ],
@@ -110,7 +155,7 @@
           },
           "PwL": {
             "label": "PwL",
-            "description": "This has been specifically created for Proficiency without Level. If it is something already existing, then it has been modified to work better under these rules."
+            "description": "This has been specifically created for Proficiency without Level. If it is something already existing, then it has been modified to work better under this variant rule."
           }
         }
       }

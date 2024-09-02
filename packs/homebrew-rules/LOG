@@ -1,3 +1,8 @@
-2024/08/18-00:39:16.725 6e38 Recovering log #119
-2024/08/18-00:39:16.729 6e38 Delete type=0 #119
-2024/08/18-00:39:16.729 6e38 Delete type=3 #117
+2024/09/02-18:40:58.657 1abc Recovering log #137
+2024/09/02-18:40:58.661 1abc Delete type=0 #137
+2024/09/02-18:40:58.661 1abc Delete type=3 #135
+2024/09/02-19:52:45.828 9080 Level-0 table #142: started
+2024/09/02-19:52:45.828 9080 Level-0 table #142: 0 bytes OK
+2024/09/02-19:52:45.829 9080 Delete type=0 #140
+2024/09/02-19:52:45.829 9080 Manual compaction at level-0 from '!journal!Wo4wspsL2A2uRmmx' @ 72057594037927935 : 1 .. '!journal.pages!ZFt9SOVF9FG3I4Fc.wDTojO2vkxWWh8l6' @ 0 : 0; will stop at (end)
+2024/09/02-19:52:45.829 9080 Manual compaction at level-1 from '!journal!Wo4wspsL2A2uRmmx' @ 72057594037927935 : 1 .. '!journal.pages!ZFt9SOVF9FG3I4Fc.wDTojO2vkxWWh8l6' @ 0 : 0; will stop at (end)
