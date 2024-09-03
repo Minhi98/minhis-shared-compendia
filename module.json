@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -110,11 +110,11 @@
       "label": "Home-Base Handbook Journals",
       "path": "packs/home-base-handbook-journals",
       "type": "JournalEntry",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     }
   ],
   "packFolders": [

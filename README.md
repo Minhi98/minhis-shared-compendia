@@ -17,7 +17,7 @@ Archetypes
 - Class Paragon
 
 3PP
-- Home-Base Handbook (Hirelings, Tables and Notable Effects)
+- Home-Base Handbook (plus personal errata and additions)
 
 ### Proficiency without Level
 
