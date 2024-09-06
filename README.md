@@ -8,7 +8,7 @@ Install via the manifest - `https://raw.githubusercontent.com/Minhi98/minhis-sha
 
 Systems and Misc.
 - Simplified Camping
-- Proficiency without Level (see below)
+- Proficiency without Level
 
 Ancestries & Heritages
 - (Poppet Heritage) Plain Porcelain Doll
@@ -17,12 +17,10 @@ Archetypes
 - Class Paragon
 
 3PP
-- Home-Base Handbook (plus personal errata and additions)
+- Home-Base Handbook (+ additional room modules, personal errata)
 
 ### Proficiency without Level
 
-Item and Macro compendiums have been added with the intention of providing support to commonly used things.
+Changes and adjustments are based off of my [PwL Adjustments](https://docs.google.com/spreadsheets/d/1gjBxrdQMJUpBZesnUYN9WI0pE_FLay4pGyPJGcNz7uY/edit?usp=sharing) sheet. Compendiums have been put in to provide support for common things, such as treat wounds. As of writing, certain macros (e.g. "Generate Check Prompt") cannot be edited because they make calls to the system's internal API. 
 
-Changes are based off of my [PwL Adjustments](https://docs.google.com/spreadsheets/d/1gjBxrdQMJUpBZesnUYN9WI0pE_FLay4pGyPJGcNz7uY/edit?usp=sharing) sheet.
-
-As of writing, certain system module and action macros (e.g. "Generate Check Prompt") cannot be edited because they source their set DCs internally, rather than from macros. For Simple DCs, you are advised to set them manually.
+The inbuilt variant rule simply subtracts the level from level-based DCs. In the compendiums are reference macros for Simple, Level-Based and Spell Rank DCs that can be used for quick reference while Generate Check Prompt is open.
