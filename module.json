@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -126,6 +126,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "miscellaneous",
+      "label": "Misc.",
+      "path": "packs/miscellaneous",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -139,7 +150,8 @@
         "proficiency-without-level-macros",
         "ancestries-and-heritages",
         "archetypes",
-        "heroic-crafting"
+        "heroic-crafting",
+        "miscellaneous"
       ],
       "folders": [
         {
