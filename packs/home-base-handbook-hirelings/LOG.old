@@ -1,9 +1,15 @@
-2024/10/19-13:58:51.020 2cac Recovering log #179
-2024/10/19-13:58:51.024 2cac Delete type=0 #179
-2024/10/19-13:58:51.024 2cac Delete type=3 #177
-2024/10/19-13:58:53.549 3fcc Compacting 1@1 + 1@2 files
-2024/10/19-13:58:53.553 3fcc Generated table #182@1: 130 keys, 78134 bytes
-2024/10/19-13:58:53.553 3fcc Compacted 1@1 + 1@2 files => 78134 bytes
-2024/10/19-13:58:53.554 3fcc compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/10/19-13:58:53.554 3fcc Delete type=2 #176
-2024/10/19-13:58:53.554 3fcc Delete type=2 #178
+2024/10/21-11:20:27.647 1bdc Recovering log #185
+2024/10/21-11:20:27.651 1bdc Delete type=0 #185
+2024/10/21-11:20:27.651 1bdc Delete type=3 #183
+2024/10/21-11:57:38.389 2984 Level-0 table #191: started
+2024/10/21-11:57:38.391 2984 Level-0 table #191: 44727 bytes OK
+2024/10/21-11:57:38.392 2984 Delete type=0 #189
+2024/10/21-11:57:38.393 2984 Manual compaction at level-0 from '!actors!234CslVG3Bm6PDcB' @ 72057594037927935 : 1 .. '!folders!nEhmpsPslAklwUn7' @ 0 : 0; will stop at (end)
+2024/10/21-11:57:38.393 2984 Manual compaction at level-1 from '!actors!234CslVG3Bm6PDcB' @ 72057594037927935 : 1 .. '!folders!nEhmpsPslAklwUn7' @ 0 : 0; will stop at '!actors!w0uM6JvltIrAiDDC' @ 324 : 1
+2024/10/21-11:57:38.393 2984 Compacting 1@1 + 1@2 files
+2024/10/21-11:57:38.397 2984 Generated table #192@1: 130 keys, 80270 bytes
+2024/10/21-11:57:38.397 2984 Compacted 1@1 + 1@2 files => 80270 bytes
+2024/10/21-11:57:38.398 2984 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/21-11:57:38.398 2984 Delete type=2 #187
+2024/10/21-11:57:38.398 2984 Delete type=2 #191
+2024/10/21-11:57:38.402 2984 Manual compaction at level-1 from '!actors!w0uM6JvltIrAiDDC' @ 324 : 1 .. '!folders!nEhmpsPslAklwUn7' @ 0 : 0; will stop at (end)

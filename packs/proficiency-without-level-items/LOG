@@ -1,23 +1,8 @@
-2024/10/21-09:46:08.762 89a4 Recovering log #249
-2024/10/21-09:46:08.766 89a4 Delete type=0 #249
-2024/10/21-09:46:08.766 89a4 Delete type=3 #247
-2024/10/21-10:57:00.218 9f88 Level-0 table #253: started
-2024/10/21-10:57:00.220 9f88 Level-0 table #253: 17992 bytes OK
-2024/10/21-10:57:00.221 9f88 Delete type=0 #251
-2024/10/21-10:57:00.225 9f88 Manual compaction at level-0 from '!folders!1ZceOGm2aDzcXslN' @ 72057594037927935 : 1 .. '!items!x8hkE3uBkkM5AQRv' @ 0 : 0; will stop at '!items!vkeMZl2LKXqUapeG' @ 864 : 1
-2024/10/21-10:57:00.225 9f88 Compacting 2@0 + 1@1 files
-2024/10/21-10:57:00.231 9f88 Generated table #254@0: 64 keys, 157760 bytes
-2024/10/21-10:57:00.231 9f88 Compacted 2@0 + 1@1 files => 157760 bytes
-2024/10/21-10:57:00.232 9f88 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/10/21-10:57:00.232 9f88 Delete type=2 #239
-2024/10/21-10:57:00.232 9f88 Delete type=2 #248
-2024/10/21-10:57:00.233 9f88 Delete type=2 #253
-2024/10/21-10:57:00.242 9f88 Manual compaction at level-0 from '!items!vkeMZl2LKXqUapeG' @ 864 : 1 .. '!items!x8hkE3uBkkM5AQRv' @ 0 : 0; will stop at (end)
-2024/10/21-10:57:00.242 9f88 Manual compaction at level-1 from '!folders!1ZceOGm2aDzcXslN' @ 72057594037927935 : 1 .. '!items!x8hkE3uBkkM5AQRv' @ 0 : 0; will stop at '!items!x8hkE3uBkkM5AQRv' @ 782 : 1
-2024/10/21-10:57:00.242 9f88 Compacting 1@1 + 1@2 files
-2024/10/21-10:57:00.248 9f88 Generated table #255@1: 127 keys, 286552 bytes
-2024/10/21-10:57:00.248 9f88 Compacted 1@1 + 1@2 files => 286552 bytes
-2024/10/21-10:57:00.249 9f88 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/10/21-10:57:00.249 9f88 Delete type=2 #223
-2024/10/21-10:57:00.249 9f88 Delete type=2 #254
-2024/10/21-10:57:00.258 9f88 Manual compaction at level-1 from '!items!x8hkE3uBkkM5AQRv' @ 782 : 1 .. '!items!x8hkE3uBkkM5AQRv' @ 0 : 0; will stop at (end)
+2024/10/21-11:57:41.976 1560 Recovering log #258
+2024/10/21-11:57:41.980 1560 Delete type=0 #258
+2024/10/21-11:57:41.980 1560 Delete type=3 #256
+2024/10/21-11:57:59.274 2984 Level-0 table #263: started
+2024/10/21-11:57:59.274 2984 Level-0 table #263: 0 bytes OK
+2024/10/21-11:57:59.275 2984 Delete type=0 #261
+2024/10/21-11:57:59.275 2984 Manual compaction at level-0 from '!folders!1ZceOGm2aDzcXslN' @ 72057594037927935 : 1 .. '!items!x8hkE3uBkkM5AQRv' @ 0 : 0; will stop at (end)
+2024/10/21-11:57:59.275 2984 Manual compaction at level-1 from '!folders!1ZceOGm2aDzcXslN' @ 72057594037927935 : 1 .. '!items!x8hkE3uBkkM5AQRv' @ 0 : 0; will stop at (end)
