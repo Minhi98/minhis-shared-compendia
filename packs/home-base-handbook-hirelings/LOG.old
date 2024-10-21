@@ -1,10 +1,9 @@
-2024/10/15-16:11:13.401 4c08 Recovering log #173
-2024/10/15-16:11:13.404 4c08 Delete type=0 #173
-2024/10/15-16:11:13.404 4c08 Delete type=3 #172
-2024/10/15-16:13:15.406 7e90 Moved #170 to level-1 18946 bytes OK: files[ 0 1 1 0 0 0 0 ]
-2024/10/15-16:16:07.918 7e90 Compacting 1@1 + 1@2 files
-2024/10/15-16:16:07.922 7e90 Generated table #176@1: 130 keys, 77832 bytes
-2024/10/15-16:16:07.922 7e90 Compacted 1@1 + 1@2 files => 77832 bytes
-2024/10/15-16:16:07.923 7e90 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/10/15-16:16:07.923 7e90 Delete type=2 #102
-2024/10/15-16:16:07.923 7e90 Delete type=2 #170
+2024/10/19-13:58:51.020 2cac Recovering log #179
+2024/10/19-13:58:51.024 2cac Delete type=0 #179
+2024/10/19-13:58:51.024 2cac Delete type=3 #177
+2024/10/19-13:58:53.549 3fcc Compacting 1@1 + 1@2 files
+2024/10/19-13:58:53.553 3fcc Generated table #182@1: 130 keys, 78134 bytes
+2024/10/19-13:58:53.553 3fcc Compacted 1@1 + 1@2 files => 78134 bytes
+2024/10/19-13:58:53.554 3fcc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/19-13:58:53.554 3fcc Delete type=2 #176
+2024/10/19-13:58:53.554 3fcc Delete type=2 #178

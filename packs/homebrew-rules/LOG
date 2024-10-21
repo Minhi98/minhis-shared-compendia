@@ -1,5 +1,23 @@
-2024/10/16-14:03:59.754 84ac Recovering log #303
-2024/10/16-14:03:59.755 84ac Level-0 table #305: started
-2024/10/16-14:03:59.759 84ac Level-0 table #305: 24695 bytes OK
-2024/10/16-14:03:59.763 84ac Delete type=0 #303
-2024/10/16-14:03:59.763 84ac Delete type=3 #302
+2024/10/21-09:46:08.741 6168 Recovering log #308
+2024/10/21-09:46:08.746 6168 Delete type=0 #308
+2024/10/21-09:46:08.746 6168 Delete type=3 #307
+2024/10/21-10:57:00.201 9f88 Level-0 table #312: started
+2024/10/21-10:57:00.206 9f88 Level-0 table #312: 303411 bytes OK
+2024/10/21-10:57:00.207 9f88 Delete type=0 #310
+2024/10/21-10:57:00.207 9f88 Manual compaction at level-0 from '!journal!BIywITLldoTOsAXF' @ 72057594037927935 : 1 .. '!journal.pages!kXnGYjdEYeTm0Mnj.vVItBG65G98M7I8z' @ 0 : 0; will stop at '!journal.pages!Wo4wspsL2A2uRmmx.yIV4ECuH7i8mIEFV' @ 810 : 1
+2024/10/21-10:57:00.207 9f88 Compacting 3@0 + 0@1 files
+2024/10/21-10:57:00.211 9f88 Generated table #313@0: 5 keys, 13027 bytes
+2024/10/21-10:57:00.211 9f88 Compacted 3@0 + 0@1 files => 13027 bytes
+2024/10/21-10:57:00.212 9f88 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/21-10:57:00.212 9f88 Delete type=2 #298
+2024/10/21-10:57:00.212 9f88 Delete type=2 #305
+2024/10/21-10:57:00.212 9f88 Delete type=2 #312
+2024/10/21-10:57:00.221 9f88 Manual compaction at level-0 from '!journal.pages!Wo4wspsL2A2uRmmx.yIV4ECuH7i8mIEFV' @ 810 : 1 .. '!journal.pages!kXnGYjdEYeTm0Mnj.vVItBG65G98M7I8z' @ 0 : 0; will stop at (end)
+2024/10/21-10:57:00.233 9f88 Manual compaction at level-1 from '!journal!BIywITLldoTOsAXF' @ 72057594037927935 : 1 .. '!journal.pages!kXnGYjdEYeTm0Mnj.vVItBG65G98M7I8z' @ 0 : 0; will stop at '!journal.pages!Wo4wspsL2A2uRmmx.yIV4ECuH7i8mIEFV' @ 1023 : 1
+2024/10/21-10:57:00.233 9f88 Compacting 1@1 + 1@2 files
+2024/10/21-10:57:00.236 9f88 Generated table #314@1: 14 keys, 23662 bytes
+2024/10/21-10:57:00.236 9f88 Compacted 1@1 + 1@2 files => 23662 bytes
+2024/10/21-10:57:00.237 9f88 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/21-10:57:00.237 9f88 Delete type=2 #290
+2024/10/21-10:57:00.237 9f88 Delete type=2 #313
+2024/10/21-10:57:00.242 9f88 Manual compaction at level-1 from '!journal.pages!Wo4wspsL2A2uRmmx.yIV4ECuH7i8mIEFV' @ 1023 : 1 .. '!journal.pages!kXnGYjdEYeTm0Mnj.vVItBG65G98M7I8z' @ 0 : 0; will stop at (end)
