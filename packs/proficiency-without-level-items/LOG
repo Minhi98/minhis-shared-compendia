@@ -1,3 +1,8 @@
-2024/10/22-20:39:38.213 5cec Recovering log #280
-2024/10/22-20:39:38.217 5cec Delete type=0 #280
-2024/10/22-20:39:38.217 5cec Delete type=3 #278
+2024/10/27-00:54:53.589 bd80 Recovering log #285
+2024/10/27-00:54:53.593 bd80 Delete type=0 #285
+2024/10/27-00:54:53.593 bd80 Delete type=3 #284
+2024/10/27-01:18:00.662 a3ac Level-0 table #289: started
+2024/10/27-01:18:00.662 a3ac Level-0 table #289: 0 bytes OK
+2024/10/27-01:18:00.663 a3ac Delete type=0 #287
+2024/10/27-01:18:00.669 a3ac Manual compaction at level-0 from '!folders!1ZceOGm2aDzcXslN' @ 72057594037927935 : 1 .. '!items!x8hkE3uBkkM5AQRv' @ 0 : 0; will stop at (end)
+2024/10/27-01:18:00.670 a3ac Manual compaction at level-1 from '!folders!1ZceOGm2aDzcXslN' @ 72057594037927935 : 1 .. '!items!x8hkE3uBkkM5AQRv' @ 0 : 0; will stop at (end)

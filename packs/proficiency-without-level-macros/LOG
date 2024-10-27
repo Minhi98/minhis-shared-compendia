@@ -1,3 +1,8 @@
-2024/10/22-20:39:38.229 b8 Recovering log #280
-2024/10/22-20:39:38.233 b8 Delete type=0 #280
-2024/10/22-20:39:38.233 b8 Delete type=3 #278
+2024/10/27-00:54:53.605 c750 Recovering log #285
+2024/10/27-00:54:53.610 c750 Delete type=0 #285
+2024/10/27-00:54:53.610 c750 Delete type=3 #284
+2024/10/27-01:18:00.680 a3ac Level-0 table #289: started
+2024/10/27-01:18:00.680 a3ac Level-0 table #289: 0 bytes OK
+2024/10/27-01:18:00.681 a3ac Delete type=0 #287
+2024/10/27-01:18:00.684 a3ac Manual compaction at level-0 from '!macros!LQjc9JhDOdEVEjcG' @ 72057594037927935 : 1 .. '!macros!oMTQVJOdHveb0CNY' @ 0 : 0; will stop at (end)
+2024/10/27-01:18:00.684 a3ac Manual compaction at level-1 from '!macros!LQjc9JhDOdEVEjcG' @ 72057594037927935 : 1 .. '!macros!oMTQVJOdHveb0CNY' @ 0 : 0; will stop at (end)

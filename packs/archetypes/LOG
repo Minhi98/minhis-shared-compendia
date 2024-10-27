@@ -1,3 +1,7 @@
-2024/10/22-20:39:38.263 81e8 Recovering log #223
-2024/10/22-20:39:38.267 81e8 Delete type=0 #223
-2024/10/22-20:39:38.267 81e8 Delete type=3 #221
+2024/10/27-00:54:53.644 67a8 Recovering log #228
+2024/10/27-00:54:53.649 67a8 Delete type=0 #228
+2024/10/27-00:54:53.649 67a8 Delete type=3 #227
+2024/10/27-01:18:00.681 a3ac Level-0 table #232: started
+2024/10/27-01:18:00.681 a3ac Level-0 table #232: 0 bytes OK
+2024/10/27-01:18:00.682 a3ac Delete type=0 #230
+2024/10/27-01:18:00.684 a3ac Manual compaction at level-0 from '!folders!tkLvcP4uHEBUVLDC' @ 72057594037927935 : 1 .. '!items!yBeJYpxbsFsCbfUT' @ 0 : 0; will stop at (end)

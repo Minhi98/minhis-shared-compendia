@@ -1,3 +1,15 @@
-2024/10/22-20:39:38.175 b8 Recovering log #348
-2024/10/22-20:39:38.178 b8 Delete type=0 #348
-2024/10/22-20:39:38.178 b8 Delete type=3 #346
+2024/10/27-00:54:53.547 c750 Recovering log #353
+2024/10/27-00:54:53.552 c750 Delete type=0 #353
+2024/10/27-00:54:53.552 c750 Delete type=3 #352
+2024/10/27-01:18:00.665 a3ac Level-0 table #357: started
+2024/10/27-01:18:00.668 a3ac Level-0 table #357: 30658 bytes OK
+2024/10/27-01:18:00.669 a3ac Delete type=0 #355
+2024/10/27-01:18:00.670 a3ac Manual compaction at level-0 from '!folders!2NhBb8yQpGL9XebB' @ 72057594037927935 : 1 .. '!items!zuzISSrNwD2iSDXT' @ 0 : 0; will stop at (end)
+2024/10/27-01:18:00.670 a3ac Manual compaction at level-1 from '!folders!2NhBb8yQpGL9XebB' @ 72057594037927935 : 1 .. '!items!zuzISSrNwD2iSDXT' @ 0 : 0; will stop at '!items!zgEwf8eSO28gGYsA' @ 2434 : 1
+2024/10/27-01:18:00.670 a3ac Compacting 1@1 + 1@2 files
+2024/10/27-01:18:00.678 a3ac Generated table #358@1: 234 keys, 207545 bytes
+2024/10/27-01:18:00.678 a3ac Compacted 1@1 + 1@2 files => 207545 bytes
+2024/10/27-01:18:00.679 a3ac compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/27-01:18:00.679 a3ac Delete type=2 #295
+2024/10/27-01:18:00.679 a3ac Delete type=2 #357
+2024/10/27-01:18:00.684 a3ac Manual compaction at level-1 from '!items!zgEwf8eSO28gGYsA' @ 2434 : 1 .. '!items!zuzISSrNwD2iSDXT' @ 0 : 0; will stop at (end)
