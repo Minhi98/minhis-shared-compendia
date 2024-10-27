@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -137,6 +137,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "actors",
+      "label": "Actors",
+      "path": "packs/actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
     }
   ],
   "packFolders": [
@@ -151,7 +162,8 @@
         "ancestries-and-heritages",
         "archetypes",
         "heroic-crafting",
-        "miscellaneous"
+        "miscellaneous",
+        "actors"
       ],
       "folders": [
         {
@@ -196,6 +208,13 @@
     "requires": [
       {
         "id": "xdy-pf2e-workbench",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "pf2e-kingmaker-tools",
         "type": "module",
         "compatibility": {}
       }
