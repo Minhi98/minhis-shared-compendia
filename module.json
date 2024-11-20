@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -148,6 +148,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
     }
   ],
   "packFolders": [
@@ -163,7 +174,8 @@
         "archetypes",
         "heroic-crafting",
         "miscellaneous",
-        "actors"
+        "actors",
+        "scenes"
       ],
       "folders": [
         {
