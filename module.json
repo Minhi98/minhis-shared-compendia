@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -154,6 +154,17 @@
       "label": "Scenes",
       "path": "packs/scenes",
       "type": "Scene",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "local-music-playlists",
+      "label": "Local Music Playlists",
+      "path": "packs/local-music-playlists",
+      "type": "Playlist",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -175,7 +186,8 @@
         "heroic-crafting",
         "miscellaneous",
         "actors",
-        "scenes"
+        "scenes",
+        "local-music-playlists"
       ],
       "folders": [
         {
