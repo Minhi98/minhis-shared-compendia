@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -165,11 +165,11 @@
       "label": "Local Music Playlists",
       "path": "packs/local-music-playlists",
       "type": "Playlist",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     }
   ],
   "packFolders": [
