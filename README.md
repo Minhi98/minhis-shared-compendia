@@ -2,12 +2,12 @@
 
 This foundry module contains implementations of my homebrew rules or 3PP modules which lack foundry support.
 
-Install via the manifest - `https://raw.githubusercontent.com/Minhi98/minhis-shared-compendia/main/module.json`
+Manifest: `https://raw.githubusercontent.com/Minhi98/minhis-shared-compendia/main/module.json`
 
 ## Supported Content
 
 Systems and Misc.
-- Simplified Camping
+- My Camping Rules with support for [Kingmaker Tools' Camping Sheet](https://github.com/BernhardPosselt/pf2e-kingmaker-tools)
 - Proficiency without Level
 
 Ancestries & Heritages
@@ -18,6 +18,10 @@ Archetypes
 
 3PP
 - Home-Base Handbook (+ additional room modules, personal errata)
+- Savant Class (Playtest version) by Raven Haunts, Ghost Spark
+- Harvest Creature activity for Heroic Crafting (to handle monster parts gathering)
+
+And various personal utilities such as common sheets with tokens set up, generic whiteboard scenes and playlists for my own convenience.
 
 ### Proficiency without Level
 
