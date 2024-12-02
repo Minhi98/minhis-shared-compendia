@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -74,7 +74,7 @@
     },
     {
       "name": "archetypes",
-      "label": "Archetypes",
+      "label": "Classes & Archetypes",
       "path": "packs/archetypes",
       "type": "Item",
       "system": "pf2e",
@@ -216,6 +216,20 @@
           "PwL": {
             "label": "PwL",
             "description": "This has been specifically created for Proficiency without Level. If it is something already existing, then it has been modified to work better under this variant rule."
+          },
+          "savant": {
+            "label": "Savant",
+            "description": "This indicates abilities from the savant class."
+          }
+        },
+        "spellTraits": {
+          "savant": {
+            "label": "Savant",
+            "description": "This indicates abilities from the savant class."
+          },
+          "nascent": {
+            "label": "Nascent",
+            "description": "Most of a savant's magical prowess comes from their attunement, an powerful innate magic called Nascent Magic. Nascent spells can be cast by spending Focus points instead of spell slots. Nascent cantrips are special spells that you gain from your attunement, and don't cost focus points to cast."
           }
         }
       }
