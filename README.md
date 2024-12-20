@@ -18,7 +18,7 @@ Archetypes
 
 3PP
 - Home-Base Handbook (+ additional room modules, personal errata)
-- Savant Class (Playtest version) by Raven Haunts, Ghost Spark
+- Dreamer Class by Raven Haunts (until an official module is available)
 - Harvest Creature activity for Heroic Crafting (to handle monster parts gathering)
 
 And various personal utilities such as common sheets with tokens set up, generic whiteboard scenes and playlists for my own convenience.
