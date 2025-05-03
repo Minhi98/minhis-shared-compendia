@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
