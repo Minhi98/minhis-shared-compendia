@@ -1,8 +1,16 @@
-2025/05/25-21:50:26.349106 7aa8cea006c0 Recovering log #293
-2025/05/25-21:50:26.354097 7aa8cea006c0 Delete type=0 #293
-2025/05/25-21:50:26.354123 7aa8cea006c0 Delete type=3 #291
-2025/06/07-22:59:26.189984 7aa8cd0006c0 Level-0 table #298: started
-2025/06/07-22:59:26.190000 7aa8cd0006c0 Level-0 table #298: 0 bytes OK
-2025/06/07-22:59:26.193120 7aa8cd0006c0 Delete type=0 #296
-2025/06/07-22:59:26.193214 7aa8cd0006c0 Manual compaction at level-0 from '!items!7iEt1ALa3mf9NfwM' @ 72057594037927935 : 1 .. '!items!GBZrVICUHdnA1j3g' @ 0 : 0; will stop at (end)
-2025/06/07-22:59:26.193247 7aa8cd0006c0 Manual compaction at level-1 from '!items!7iEt1ALa3mf9NfwM' @ 72057594037927935 : 1 .. '!items!GBZrVICUHdnA1j3g' @ 0 : 0; will stop at (end)
+2025/06/20-19:01:34.634458 738d914006c0 Recovering log #301
+2025/06/20-19:01:34.639242 738d914006c0 Delete type=0 #301
+2025/06/20-19:01:34.639269 738d914006c0 Delete type=3 #299
+2025/06/28-12:20:24.880894 738d88e006c0 Level-0 table #306: started
+2025/06/28-12:20:24.882714 738d88e006c0 Level-0 table #306: 2372 bytes OK
+2025/06/28-12:20:24.884780 738d88e006c0 Delete type=0 #304
+2025/06/28-12:20:24.896354 738d88e006c0 Manual compaction at level-0 from '!items!7iEt1ALa3mf9NfwM' @ 72057594037927935 : 1 .. '!items!GBZrVICUHdnA1j3g' @ 0 : 0; will stop at (end)
+2025/06/28-12:20:24.896441 738d88e006c0 Manual compaction at level-1 from '!items!7iEt1ALa3mf9NfwM' @ 72057594037927935 : 1 .. '!items!GBZrVICUHdnA1j3g' @ 0 : 0; will stop at '!items!GBZrVICUHdnA1j3g' @ 68 : 1
+2025/06/28-12:20:24.896448 738d88e006c0 Compacting 1@1 + 2@2 files
+2025/06/28-12:20:24.898063 738d88e006c0 Generated table #307@1: 2 keys, 2372 bytes
+2025/06/28-12:20:24.898067 738d88e006c0 Compacted 1@1 + 2@2 files => 2372 bytes
+2025/06/28-12:20:24.900383 738d88e006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/28-12:20:24.900433 738d88e006c0 Delete type=2 #266
+2025/06/28-12:20:24.900493 738d88e006c0 Delete type=2 #5
+2025/06/28-12:20:24.900532 738d88e006c0 Delete type=2 #306
+2025/06/28-12:20:24.916027 738d88e006c0 Manual compaction at level-1 from '!items!GBZrVICUHdnA1j3g' @ 68 : 1 .. '!items!GBZrVICUHdnA1j3g' @ 0 : 0; will stop at (end)

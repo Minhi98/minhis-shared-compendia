@@ -1,8 +1,15 @@
-2025/05/25-21:50:26.371483 7aa8ce0006c0 Recovering log #195
-2025/05/25-21:50:26.377006 7aa8ce0006c0 Delete type=0 #195
-2025/05/25-21:50:26.377033 7aa8ce0006c0 Delete type=3 #193
-2025/06/07-22:59:26.193347 7aa8cd0006c0 Level-0 table #200: started
-2025/06/07-22:59:26.193362 7aa8cd0006c0 Level-0 table #200: 0 bytes OK
-2025/06/07-22:59:26.196499 7aa8cd0006c0 Delete type=0 #198
-2025/06/07-22:59:26.205779 7aa8cd0006c0 Manual compaction at level-0 from '!folders!IEop1mWWgoNmrjNU' @ 72057594037927935 : 1 .. '!playlists.sounds!z4mYqhZqIplOzGW8.j7PZDfkNMZljoba2' @ 0 : 0; will stop at (end)
-2025/06/07-22:59:26.205850 7aa8cd0006c0 Manual compaction at level-1 from '!folders!IEop1mWWgoNmrjNU' @ 72057594037927935 : 1 .. '!playlists.sounds!z4mYqhZqIplOzGW8.j7PZDfkNMZljoba2' @ 0 : 0; will stop at (end)
+2025/06/20-19:01:34.656850 738d90a006c0 Recovering log #203
+2025/06/20-19:01:34.661452 738d90a006c0 Delete type=3 #201
+2025/06/20-19:01:34.661490 738d90a006c0 Delete type=0 #203
+2025/06/28-12:20:24.842294 738d88e006c0 Level-0 table #208: started
+2025/06/28-12:20:24.844787 738d88e006c0 Level-0 table #208: 64480 bytes OK
+2025/06/28-12:20:24.847144 738d88e006c0 Delete type=0 #206
+2025/06/28-12:20:24.855993 738d88e006c0 Manual compaction at level-0 from '!folders!IEop1mWWgoNmrjNU' @ 72057594037927935 : 1 .. '!playlists.sounds!z4mYqhZqIplOzGW8.j7PZDfkNMZljoba2' @ 0 : 0; will stop at (end)
+2025/06/28-12:20:24.856068 738d88e006c0 Manual compaction at level-1 from '!folders!IEop1mWWgoNmrjNU' @ 72057594037927935 : 1 .. '!playlists.sounds!z4mYqhZqIplOzGW8.j7PZDfkNMZljoba2' @ 0 : 0; will stop at '!playlists.sounds!z4mYqhZqIplOzGW8.j7PZDfkNMZljoba2' @ 3951 : 1
+2025/06/28-12:20:24.856075 738d88e006c0 Compacting 1@1 + 1@2 files
+2025/06/28-12:20:24.859184 738d88e006c0 Generated table #209@1: 424 keys, 63927 bytes
+2025/06/28-12:20:24.859189 738d88e006c0 Compacted 1@1 + 1@2 files => 63927 bytes
+2025/06/28-12:20:24.861406 738d88e006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/28-12:20:24.861455 738d88e006c0 Delete type=2 #112
+2025/06/28-12:20:24.861522 738d88e006c0 Delete type=2 #208
+2025/06/28-12:20:24.875801 738d88e006c0 Manual compaction at level-1 from '!playlists.sounds!z4mYqhZqIplOzGW8.j7PZDfkNMZljoba2' @ 3951 : 1 .. '!playlists.sounds!z4mYqhZqIplOzGW8.j7PZDfkNMZljoba2' @ 0 : 0; will stop at (end)

@@ -1,8 +1,15 @@
-2025/05/25-21:50:26.286261 7aa8cf4006c0 Recovering log #587
-2025/05/25-21:50:26.291256 7aa8cf4006c0 Delete type=3 #585
-2025/05/25-21:50:26.291297 7aa8cf4006c0 Delete type=0 #587
-2025/06/07-22:59:26.162899 7aa8cd0006c0 Level-0 table #592: started
-2025/06/07-22:59:26.162912 7aa8cd0006c0 Level-0 table #592: 0 bytes OK
-2025/06/07-22:59:26.165158 7aa8cd0006c0 Delete type=0 #590
-2025/06/07-22:59:26.167774 7aa8cd0006c0 Manual compaction at level-0 from '!journal!BIywITLldoTOsAXF' @ 72057594037927935 : 1 .. '!journal.pages!klgPrLysFU1utUvY.vxXYWfMEFF6hwL28' @ 0 : 0; will stop at (end)
-2025/06/07-22:59:26.170084 7aa8cd0006c0 Manual compaction at level-1 from '!journal!BIywITLldoTOsAXF' @ 72057594037927935 : 1 .. '!journal.pages!klgPrLysFU1utUvY.vxXYWfMEFF6hwL28' @ 0 : 0; will stop at (end)
+2025/06/20-19:01:34.557127 738d928006c0 Recovering log #595
+2025/06/20-19:01:34.565971 738d928006c0 Delete type=0 #595
+2025/06/20-19:01:34.566038 738d928006c0 Delete type=3 #593
+2025/06/28-12:20:24.768559 738d88e006c0 Level-0 table #600: started
+2025/06/28-12:20:24.771379 738d88e006c0 Level-0 table #600: 60996 bytes OK
+2025/06/28-12:20:24.773584 738d88e006c0 Delete type=0 #598
+2025/06/28-12:20:24.777433 738d88e006c0 Manual compaction at level-0 from '!journal!BIywITLldoTOsAXF' @ 72057594037927935 : 1 .. '!journal.pages!klgPrLysFU1utUvY.vxXYWfMEFF6hwL28' @ 0 : 0; will stop at (end)
+2025/06/28-12:20:24.787844 738d88e006c0 Manual compaction at level-1 from '!journal!BIywITLldoTOsAXF' @ 72057594037927935 : 1 .. '!journal.pages!klgPrLysFU1utUvY.vxXYWfMEFF6hwL28' @ 0 : 0; will stop at '!journal.pages!klgPrLysFU1utUvY.vxXYWfMEFF6hwL28' @ 1710 : 1
+2025/06/28-12:20:24.787851 738d88e006c0 Compacting 1@1 + 1@2 files
+2025/06/28-12:20:24.790267 738d88e006c0 Generated table #601@1: 43 keys, 56806 bytes
+2025/06/28-12:20:24.790272 738d88e006c0 Compacted 1@1 + 1@2 files => 56806 bytes
+2025/06/28-12:20:24.792565 738d88e006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/28-12:20:24.792630 738d88e006c0 Delete type=2 #494
+2025/06/28-12:20:24.792695 738d88e006c0 Delete type=2 #600
+2025/06/28-12:20:24.797404 738d88e006c0 Manual compaction at level-1 from '!journal.pages!klgPrLysFU1utUvY.vxXYWfMEFF6hwL28' @ 1710 : 1 .. '!journal.pages!klgPrLysFU1utUvY.vxXYWfMEFF6hwL28' @ 0 : 0; will stop at (end)

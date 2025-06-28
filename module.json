@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
@@ -12,7 +12,7 @@
       "flags": {}
     }
   ],
-  "description": "A module for my pf2e homebrew and implementations of 3PP or other homebrew used.",
+  "description": "<p>A module for my pf2e homebrew and implementations of 3PP or other homebrew used.</p>",
   "url": "https://github.com/Minhi98/minhis-shared-compendia",
   "manifest": "https://raw.githubusercontent.com/Minhi98/minhis-shared-compendia/main/module.json",
   "download": "https://github.com/Minhi98/minhis-shared-compendia/archive/main.zip",

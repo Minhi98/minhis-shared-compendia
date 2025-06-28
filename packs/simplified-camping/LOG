@@ -1,8 +1,15 @@
-2025/05/25-21:50:26.277900 7aa8ce0006c0 Recovering log #588
-2025/05/25-21:50:26.283604 7aa8ce0006c0 Delete type=3 #586
-2025/05/25-21:50:26.283642 7aa8ce0006c0 Delete type=0 #588
-2025/06/07-22:59:26.160472 7aa8cd0006c0 Level-0 table #593: started
-2025/06/07-22:59:26.160486 7aa8cd0006c0 Level-0 table #593: 0 bytes OK
-2025/06/07-22:59:26.162869 7aa8cd0006c0 Delete type=0 #591
-2025/06/07-22:59:26.167757 7aa8cd0006c0 Manual compaction at level-0 from '!folders!2NhBb8yQpGL9XebB' @ 72057594037927935 : 1 .. '!items!zuzISSrNwD2iSDXT' @ 0 : 0; will stop at (end)
-2025/06/07-22:59:26.167823 7aa8cd0006c0 Manual compaction at level-1 from '!folders!2NhBb8yQpGL9XebB' @ 72057594037927935 : 1 .. '!items!zuzISSrNwD2iSDXT' @ 0 : 0; will stop at (end)
+2025/06/20-19:01:34.492829 738d914006c0 Recovering log #596
+2025/06/20-19:01:34.554102 738d914006c0 Delete type=3 #594
+2025/06/20-19:01:34.554133 738d914006c0 Delete type=0 #596
+2025/06/28-12:20:24.751113 738d88e006c0 Level-0 table #601: started
+2025/06/28-12:20:24.753908 738d88e006c0 Level-0 table #601: 213199 bytes OK
+2025/06/28-12:20:24.755795 738d88e006c0 Delete type=0 #599
+2025/06/28-12:20:24.755925 738d88e006c0 Manual compaction at level-0 from '!folders!2NhBb8yQpGL9XebB' @ 72057594037927935 : 1 .. '!items!zuzISSrNwD2iSDXT' @ 0 : 0; will stop at (end)
+2025/06/28-12:20:24.755942 738d88e006c0 Manual compaction at level-1 from '!folders!2NhBb8yQpGL9XebB' @ 72057594037927935 : 1 .. '!items!zuzISSrNwD2iSDXT' @ 0 : 0; will stop at '!items!zuzISSrNwD2iSDXT' @ 2721 : 1
+2025/06/28-12:20:24.755945 738d88e006c0 Compacting 1@1 + 1@2 files
+2025/06/28-12:20:24.759617 738d88e006c0 Generated table #602@1: 243 keys, 213425 bytes
+2025/06/28-12:20:24.759622 738d88e006c0 Compacted 1@1 + 1@2 files => 213425 bytes
+2025/06/28-12:20:24.761774 738d88e006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/28-12:20:24.761829 738d88e006c0 Delete type=2 #601
+2025/06/28-12:20:24.761944 738d88e006c0 Delete type=2 #495
+2025/06/28-12:20:24.777415 738d88e006c0 Manual compaction at level-1 from '!items!zuzISSrNwD2iSDXT' @ 2721 : 1 .. '!items!zuzISSrNwD2iSDXT' @ 0 : 0; will stop at (end)
