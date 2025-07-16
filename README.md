@@ -15,6 +15,7 @@ Ancestries & Heritages
 
 Archetypes
 - Class Paragon
+- Alt. Exemplar Archetype - a set of feats matching my [adjustments](https://wiki.minhi.net/wiki/Pathfinder_2e_Homebrew_%26_3PP_Index#Exemplar_Archetype) for the exemplar multiclass archetype.
 
 3PP
 - Home-Base Handbook (+ additional room modules, personal errata)
