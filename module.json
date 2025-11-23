@@ -1,7 +1,7 @@
 {
   "id": "minhis-shared-compendia",
   "title": "Minhi's Shared Compendia",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
@@ -84,52 +84,8 @@
       }
     },
     {
-      "name": "home-base-handbook-hirelings",
-      "label": "Home-Base Handbook Hirelings",
-      "path": "packs/home-base-handbook-hirelings",
-      "type": "Actor",
-      "system": "pf2e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "home-base-handbook-and-additions",
-      "label": "Home-Base Handbook & Additions",
-      "path": "packs/home-base-handbook-and-additions",
-      "type": "Item",
-      "system": "pf2e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "home-base-handbook-journals",
-      "label": "Home-Base Handbook Journals",
-      "path": "packs/home-base-handbook-journals",
-      "type": "JournalEntry",
-      "system": "pf2e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "heroic-crafting",
-      "label": "Heroic Crafting",
-      "path": "packs/heroic-crafting",
-      "type": "Item",
-      "system": "pf2e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "name": "miscellaneous",
-      "label": "Misc.",
+      "label": "Minhi's Items",
       "path": "packs/miscellaneous",
       "type": "Item",
       "system": "pf2e",
@@ -161,10 +117,21 @@
       }
     },
     {
-      "name": "local-music-playlists",
-      "label": "Local Music Playlists",
-      "path": "packs/local-music-playlists",
-      "type": "Playlist",
+      "name": "the-city",
+      "label": "The City",
+      "path": "packs/the-city",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "the-city-scenes",
+      "label": "The City",
+      "path": "packs/the-city-scenes",
+      "type": "Scene",
       "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -179,8 +146,6 @@
       "packs": [
         "simplified-camping",
         "homebrew-rules",
-        "proficiency-without-level-items",
-        "proficiency-without-level-macros",
         "ancestries-and-heritages",
         "archetypes",
         "heroic-crafting",
@@ -191,13 +156,22 @@
       ],
       "folders": [
         {
-          "name": "Home-Base Handbook",
+          "name": "Proficiency without Level",
           "sorting": "a",
           "color": null,
           "packs": [
-            "home-base-handbook-and-additions",
-            "home-base-handbook-hirelings",
-            "home-base-handbook-journals"
+            "proficiency-without-level-items",
+            "proficiency-without-level-macros"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Setting: The City",
+          "sorting": "a",
+          "color": null,
+          "packs": [
+            "the-city",
+            "the-city-scenes"
           ],
           "folders": []
         }
@@ -220,6 +194,10 @@
           "savant": {
             "label": "Savant",
             "description": "This indicates abilities from the savant class."
+          },
+          "bloodfiend": {
+            "label": "Bloodfiend",
+            "description": "A creature with this trait has the bloodfiend versatile heritage."
           }
         },
         "spellTraits": {
